@@ -1,3 +1,9 @@
+# Sathvik Uddarraju's First CS193 Homework
+## Favorite things about 193
+- Learning how to use Github
+- Meeting other CS majors
+- Lectures easy to follow along
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
